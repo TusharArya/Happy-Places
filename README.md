@@ -1,2 +1,0 @@
-# Happy-Places
-Major Project
